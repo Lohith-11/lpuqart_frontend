@@ -1,0 +1,27 @@
+.navbar {
+    background-color: #333;
+    padding: 1rem;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .brand {
+    color: black;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  .nav-links {
+    display: flex;
+  }
+  
+  .nav-link {
+    color: black;
+    margin-left: 1rem;
+    text-decoration: none;
+  }
